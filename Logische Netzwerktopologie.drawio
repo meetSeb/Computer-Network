@@ -1,32 +1,83 @@
-<mxfile host="app.diagrams.net" modified="2024-05-15T19:36:17.984Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" etag="4CWCKxZBOfzimEYWpufB" version="24.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-15T19:39:36.630Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" etag="1aF9ztecaedK6hHm2fqu" version="24.4.0" type="github">
   <diagram name="Seite-1" id="UgNp4CsegLJwjOinKvmV">
-    <mxGraphModel dx="2009" dy="1123" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2009" dy="1485" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="9SLDAZQ2YVIZSHfqmBoz-1" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="1">
-          <mxGeometry x="-221" y="313" width="45.6" height="61.800000000000004" as="geometry" />
+        <mxCell id="9SLDAZQ2YVIZSHfqmBoz-28" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="388" y="260" width="163.60000000000002" height="131.40000000000003" as="geometry" />
         </mxCell>
-        <mxCell id="9SLDAZQ2YVIZSHfqmBoz-2" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="1">
-          <mxGeometry x="-46" y="261" width="45.6" height="61.800000000000004" as="geometry" />
+        <mxCell id="9SLDAZQ2YVIZSHfqmBoz-22" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="9SLDAZQ2YVIZSHfqmBoz-28">
+          <mxGeometry y="66" width="45.6" height="61.800000000000004" as="geometry" />
         </mxCell>
-        <mxCell id="9SLDAZQ2YVIZSHfqmBoz-3" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="1">
-          <mxGeometry x="-103" y="254.8" width="45.6" height="61.800000000000004" as="geometry" />
+        <mxCell id="9SLDAZQ2YVIZSHfqmBoz-23" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="9SLDAZQ2YVIZSHfqmBoz-28">
+          <mxGeometry x="118" y="7.800000000000011" width="45.6" height="61.800000000000004" as="geometry" />
         </mxCell>
-        <mxCell id="9SLDAZQ2YVIZSHfqmBoz-4" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="1">
-          <mxGeometry x="-159" y="254.79999999999998" width="45.6" height="61.800000000000004" as="geometry" />
+        <mxCell id="9SLDAZQ2YVIZSHfqmBoz-24" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="9SLDAZQ2YVIZSHfqmBoz-28">
+          <mxGeometry x="62" y="4.7999999999999545" width="45.6" height="61.800000000000004" as="geometry" />
         </mxCell>
-        <mxCell id="9SLDAZQ2YVIZSHfqmBoz-5" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="1">
-          <mxGeometry x="-221" y="247" width="45.6" height="61.800000000000004" as="geometry" />
+        <mxCell id="9SLDAZQ2YVIZSHfqmBoz-25" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="9SLDAZQ2YVIZSHfqmBoz-28">
+          <mxGeometry x="1" width="45.6" height="61.800000000000004" as="geometry" />
         </mxCell>
-        <mxCell id="9SLDAZQ2YVIZSHfqmBoz-6" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="1">
-          <mxGeometry x="-103" y="316.6" width="45.6" height="61.800000000000004" as="geometry" />
+        <mxCell id="9SLDAZQ2YVIZSHfqmBoz-26" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="9SLDAZQ2YVIZSHfqmBoz-28">
+          <mxGeometry x="118" y="69.60000000000002" width="45.6" height="61.800000000000004" as="geometry" />
         </mxCell>
-        <mxCell id="9SLDAZQ2YVIZSHfqmBoz-7" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="1">
-          <mxGeometry x="-159" y="316.6" width="45.6" height="61.800000000000004" as="geometry" />
+        <mxCell id="9SLDAZQ2YVIZSHfqmBoz-27" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="9SLDAZQ2YVIZSHfqmBoz-28">
+          <mxGeometry x="62" y="69.60000000000002" width="45.6" height="61.800000000000004" as="geometry" />
         </mxCell>
-        <mxCell id="9SLDAZQ2YVIZSHfqmBoz-8" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="1">
-          <mxGeometry x="-46" y="322.8" width="45.6" height="61.800000000000004" as="geometry" />
+        <mxCell id="9SLDAZQ2YVIZSHfqmBoz-29" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-221" y="247" width="220.6" height="137.60000000000002" as="geometry" />
+        </mxCell>
+        <mxCell id="9SLDAZQ2YVIZSHfqmBoz-1" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="9SLDAZQ2YVIZSHfqmBoz-29">
+          <mxGeometry y="66" width="45.6" height="61.800000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="9SLDAZQ2YVIZSHfqmBoz-2" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="9SLDAZQ2YVIZSHfqmBoz-29">
+          <mxGeometry x="175" y="14" width="45.6" height="61.800000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="9SLDAZQ2YVIZSHfqmBoz-3" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="9SLDAZQ2YVIZSHfqmBoz-29">
+          <mxGeometry x="118" y="7.800000000000011" width="45.6" height="61.800000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="9SLDAZQ2YVIZSHfqmBoz-4" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="9SLDAZQ2YVIZSHfqmBoz-29">
+          <mxGeometry x="62" y="4.799999999999983" width="45.6" height="61.800000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="9SLDAZQ2YVIZSHfqmBoz-5" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="9SLDAZQ2YVIZSHfqmBoz-29">
+          <mxGeometry x="1" width="45.6" height="61.800000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="9SLDAZQ2YVIZSHfqmBoz-6" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="9SLDAZQ2YVIZSHfqmBoz-29">
+          <mxGeometry x="118" y="69.60000000000002" width="45.6" height="61.800000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="9SLDAZQ2YVIZSHfqmBoz-7" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="9SLDAZQ2YVIZSHfqmBoz-29">
+          <mxGeometry x="62" y="69.60000000000002" width="45.6" height="61.800000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="9SLDAZQ2YVIZSHfqmBoz-8" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="9SLDAZQ2YVIZSHfqmBoz-29">
+          <mxGeometry x="175" y="75.80000000000001" width="45.6" height="61.800000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="9SLDAZQ2YVIZSHfqmBoz-30" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="139" y="280.2" width="110" height="104.40000000000003" as="geometry" />
+        </mxCell>
+        <mxCell id="9SLDAZQ2YVIZSHfqmBoz-17" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/VOIP_IP_phone.svg;" vertex="1" parent="9SLDAZQ2YVIZSHfqmBoz-30">
+          <mxGeometry x="40" y="52.60000000000002" width="30" height="45.6" as="geometry" />
+        </mxCell>
+        <mxCell id="9SLDAZQ2YVIZSHfqmBoz-21" value="" style="group" vertex="1" connectable="0" parent="9SLDAZQ2YVIZSHfqmBoz-30">
+          <mxGeometry width="110" height="104.40000000000003" as="geometry" />
+        </mxCell>
+        <mxCell id="9SLDAZQ2YVIZSHfqmBoz-15" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/VOIP_IP_phone.svg;" vertex="1" parent="9SLDAZQ2YVIZSHfqmBoz-21">
+          <mxGeometry x="80" width="30" height="45.6" as="geometry" />
+        </mxCell>
+        <mxCell id="9SLDAZQ2YVIZSHfqmBoz-16" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/VOIP_IP_phone.svg;" vertex="1" parent="9SLDAZQ2YVIZSHfqmBoz-21">
+          <mxGeometry x="76" y="58.80000000000001" width="30" height="45.6" as="geometry" />
+        </mxCell>
+        <mxCell id="9SLDAZQ2YVIZSHfqmBoz-18" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/VOIP_IP_phone.svg;" vertex="1" parent="9SLDAZQ2YVIZSHfqmBoz-21">
+          <mxGeometry x="40" width="30" height="45.6" as="geometry" />
+        </mxCell>
+        <mxCell id="9SLDAZQ2YVIZSHfqmBoz-19" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/VOIP_IP_phone.svg;" vertex="1" parent="9SLDAZQ2YVIZSHfqmBoz-21">
+          <mxGeometry y="55.60000000000002" width="30" height="45.6" as="geometry" />
+        </mxCell>
+        <mxCell id="9SLDAZQ2YVIZSHfqmBoz-20" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/VOIP_IP_phone.svg;" vertex="1" parent="9SLDAZQ2YVIZSHfqmBoz-21">
+          <mxGeometry width="30" height="45.6" as="geometry" />
+        </mxCell>
+        <mxCell id="9SLDAZQ2YVIZSHfqmBoz-31" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/switch/Switch_52_port_L3.svg;" vertex="1" parent="1">
+          <mxGeometry x="169" y="-56" width="67.96" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
