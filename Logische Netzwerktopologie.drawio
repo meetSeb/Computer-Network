@@ -1,29 +1,38 @@
-<mxfile host="app.diagrams.net" modified="2024-05-15T20:07:42.269Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" etag="d_mV1cpQAV5J90ZNJ7iU" version="24.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-15T20:10:19.375Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" etag="IKPHIlwoA6qOHTXOY4fc" version="24.4.0" type="github">
   <diagram name="Seite-1" id="UgNp4CsegLJwjOinKvmV">
-    <mxGraphModel dx="2409" dy="1885" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2778" dy="1912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="9SLDAZQ2YVIZSHfqmBoz-54" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="120.25" y="-540" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9SLDAZQ2YVIZSHfqmBoz-32" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="9SLDAZQ2YVIZSHfqmBoz-54">
+          <mxGeometry width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9SLDAZQ2YVIZSHfqmBoz-46" value="Internet" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="9SLDAZQ2YVIZSHfqmBoz-54">
+          <mxGeometry x="30" y="25" width="60" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="9SLDAZQ2YVIZSHfqmBoz-31" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/switch/Switch_52_port_L3.svg;" vertex="1" parent="1">
-          <mxGeometry x="140.04" y="-90" width="67.96" height="46" as="geometry" />
+          <mxGeometry x="-625.96" y="-471" width="67.96" height="46" as="geometry" />
         </mxCell>
         <mxCell id="9SLDAZQ2YVIZSHfqmBoz-33" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="-399" width="300.5" height="40" as="geometry" />
+          <mxGeometry x="-736" y="-780" width="300.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9SLDAZQ2YVIZSHfqmBoz-34" value="DMZ" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="26" y="-401" width="60" height="30" as="geometry" />
+          <mxGeometry x="-740" y="-782" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9SLDAZQ2YVIZSHfqmBoz-35" value="" style="image;html=1;image=img/lib/clip_art/networking/Firewall_02_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="161" y="-423" width="34" height="37" as="geometry" />
+          <mxGeometry x="-605" y="-804" width="34" height="37" as="geometry" />
         </mxCell>
         <mxCell id="9SLDAZQ2YVIZSHfqmBoz-36" value="" style="image;html=1;image=img/lib/clip_art/networking/Firewall_02_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="159" y="-374" width="34" height="37" as="geometry" />
+          <mxGeometry x="-607" y="-755" width="34" height="37" as="geometry" />
         </mxCell>
         <mxCell id="9SLDAZQ2YVIZSHfqmBoz-37" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="-294" width="292" height="131" as="geometry" />
+          <mxGeometry x="-736" y="-675" width="292" height="131" as="geometry" />
         </mxCell>
         <mxCell id="9SLDAZQ2YVIZSHfqmBoz-43" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="217" y="-291.5" width="71.44" height="124" as="geometry" />
+          <mxGeometry x="-549" y="-672.5" width="71.44" height="124" as="geometry" />
         </mxCell>
         <mxCell id="9SLDAZQ2YVIZSHfqmBoz-38" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/storage/Datacenter_Server_Rack_ToR.svg;" vertex="1" parent="9SLDAZQ2YVIZSHfqmBoz-43">
           <mxGeometry width="41.44" height="84" as="geometry" />
@@ -38,13 +47,13 @@
           <mxGeometry x="30" y="30" width="41.44" height="84" as="geometry" />
         </mxCell>
         <mxCell id="9SLDAZQ2YVIZSHfqmBoz-44" value="Organisationsnetz&lt;div style=&quot;line-height: 160%;&quot;&gt;Bsp: E-Mail Server&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="38" y="-306" width="159" height="78.5" as="geometry" />
+          <mxGeometry x="-728" y="-687" width="159" height="78.5" as="geometry" />
         </mxCell>
         <mxCell id="9SLDAZQ2YVIZSHfqmBoz-45" value="Anzahl: 1 ... n" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="170" y="-204" width="60" height="30" as="geometry" />
+          <mxGeometry x="-596" y="-585" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9SLDAZQ2YVIZSHfqmBoz-48" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="460.96" y="170" width="286.99999999999994" height="189" as="geometry" />
+          <mxGeometry x="-305.04" y="-211" width="286.99999999999994" height="189" as="geometry" />
         </mxCell>
         <mxCell id="9SLDAZQ2YVIZSHfqmBoz-47" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="9SLDAZQ2YVIZSHfqmBoz-48">
           <mxGeometry width="287" height="189" as="geometry" />
@@ -73,44 +82,8 @@
         <mxCell id="9SLDAZQ2YVIZSHfqmBoz-27" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="9SLDAZQ2YVIZSHfqmBoz-60">
           <mxGeometry x="62" y="69.60000000000002" width="45.6" height="61.800000000000004" as="geometry" />
         </mxCell>
-        <mxCell id="9SLDAZQ2YVIZSHfqmBoz-50" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-439" y="156" width="325" height="205" as="geometry" />
-        </mxCell>
-        <mxCell id="9SLDAZQ2YVIZSHfqmBoz-49" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="9SLDAZQ2YVIZSHfqmBoz-50">
-          <mxGeometry width="313.2" height="192.2" as="geometry" />
-        </mxCell>
-        <mxCell id="9SLDAZQ2YVIZSHfqmBoz-29" value="" style="group" vertex="1" connectable="0" parent="9SLDAZQ2YVIZSHfqmBoz-50">
-          <mxGeometry x="43" y="45" width="282" height="177" as="geometry" />
-        </mxCell>
-        <mxCell id="9SLDAZQ2YVIZSHfqmBoz-1" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="9SLDAZQ2YVIZSHfqmBoz-29">
-          <mxGeometry y="66" width="45.6" height="61.800000000000004" as="geometry" />
-        </mxCell>
-        <mxCell id="9SLDAZQ2YVIZSHfqmBoz-2" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="9SLDAZQ2YVIZSHfqmBoz-29">
-          <mxGeometry x="175" y="14" width="45.6" height="61.800000000000004" as="geometry" />
-        </mxCell>
-        <mxCell id="9SLDAZQ2YVIZSHfqmBoz-3" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="9SLDAZQ2YVIZSHfqmBoz-29">
-          <mxGeometry x="118" y="7.800000000000011" width="45.6" height="61.800000000000004" as="geometry" />
-        </mxCell>
-        <mxCell id="9SLDAZQ2YVIZSHfqmBoz-4" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="9SLDAZQ2YVIZSHfqmBoz-29">
-          <mxGeometry x="62" y="4.799999999999983" width="45.6" height="61.800000000000004" as="geometry" />
-        </mxCell>
-        <mxCell id="9SLDAZQ2YVIZSHfqmBoz-5" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="9SLDAZQ2YVIZSHfqmBoz-29">
-          <mxGeometry x="1" width="45.6" height="61.800000000000004" as="geometry" />
-        </mxCell>
-        <mxCell id="9SLDAZQ2YVIZSHfqmBoz-6" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="9SLDAZQ2YVIZSHfqmBoz-29">
-          <mxGeometry x="118" y="69.60000000000002" width="45.6" height="61.800000000000004" as="geometry" />
-        </mxCell>
-        <mxCell id="9SLDAZQ2YVIZSHfqmBoz-7" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="9SLDAZQ2YVIZSHfqmBoz-29">
-          <mxGeometry x="62" y="69.60000000000002" width="45.6" height="61.800000000000004" as="geometry" />
-        </mxCell>
-        <mxCell id="9SLDAZQ2YVIZSHfqmBoz-8" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="9SLDAZQ2YVIZSHfqmBoz-29">
-          <mxGeometry x="175" y="75.80000000000001" width="45.6" height="61.800000000000004" as="geometry" />
-        </mxCell>
-        <mxCell id="9SLDAZQ2YVIZSHfqmBoz-57" value="VLAN: Business Netzwerk" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="9SLDAZQ2YVIZSHfqmBoz-50">
-          <mxGeometry x="7" y="7" width="229" height="18" as="geometry" />
-        </mxCell>
         <mxCell id="9SLDAZQ2YVIZSHfqmBoz-52" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="64.25" y="184" width="227.5" height="161" as="geometry" />
+          <mxGeometry x="-701.75" y="-197" width="227.5" height="161" as="geometry" />
         </mxCell>
         <mxCell id="9SLDAZQ2YVIZSHfqmBoz-51" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="9SLDAZQ2YVIZSHfqmBoz-52">
           <mxGeometry width="222.15962441314554" height="160.99999999999997" as="geometry" />
@@ -143,22 +116,52 @@
           <mxGeometry x="-40" y="9" width="229" height="18" as="geometry" />
         </mxCell>
         <mxCell id="9SLDAZQ2YVIZSHfqmBoz-53" value="Distribution Switch" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="226.5" y="-94" width="104" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="9SLDAZQ2YVIZSHfqmBoz-54" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="120.25" y="-540" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="9SLDAZQ2YVIZSHfqmBoz-32" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="9SLDAZQ2YVIZSHfqmBoz-54">
-          <mxGeometry width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="9SLDAZQ2YVIZSHfqmBoz-46" value="Internet" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="9SLDAZQ2YVIZSHfqmBoz-54">
-          <mxGeometry x="30" y="25" width="60" height="30" as="geometry" />
+          <mxGeometry x="-539.5" y="-475" width="104" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9SLDAZQ2YVIZSHfqmBoz-55" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/switch/Switch_52_port_L3.svg;" vertex="1" parent="1">
-          <mxGeometry x="-121.00000000000003" y="-14" width="67.96" height="46" as="geometry" />
+          <mxGeometry x="-887" y="-395" width="67.96" height="46" as="geometry" />
         </mxCell>
         <mxCell id="9SLDAZQ2YVIZSHfqmBoz-56" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/switch/Switch_52_port_L3.svg;" vertex="1" parent="1">
-          <mxGeometry x="393" y="-14" width="67.96" height="46" as="geometry" />
+          <mxGeometry x="-373" y="-395" width="67.96" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="9SLDAZQ2YVIZSHfqmBoz-63" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-1060" y="-210" width="250" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="9SLDAZQ2YVIZSHfqmBoz-50" value="" style="group" vertex="1" connectable="0" parent="9SLDAZQ2YVIZSHfqmBoz-63">
+          <mxGeometry width="250" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="9SLDAZQ2YVIZSHfqmBoz-49" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="9SLDAZQ2YVIZSHfqmBoz-50">
+          <mxGeometry width="240.92307692307693" height="140.6341463414634" as="geometry" />
+        </mxCell>
+        <mxCell id="9SLDAZQ2YVIZSHfqmBoz-29" value="" style="group" vertex="1" connectable="0" parent="9SLDAZQ2YVIZSHfqmBoz-50">
+          <mxGeometry x="33.07692307692308" y="32.926829268292686" width="216.92307692307693" height="129.5121951219512" as="geometry" />
+        </mxCell>
+        <mxCell id="9SLDAZQ2YVIZSHfqmBoz-1" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="9SLDAZQ2YVIZSHfqmBoz-29">
+          <mxGeometry y="48.292682926829265" width="33.36585365853659" height="45.21951219512195" as="geometry" />
+        </mxCell>
+        <mxCell id="9SLDAZQ2YVIZSHfqmBoz-5" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="9SLDAZQ2YVIZSHfqmBoz-29">
+          <mxGeometry x="0.7692307692307693" width="33.36585365853659" height="45.21951219512195" as="geometry" />
+        </mxCell>
+        <mxCell id="9SLDAZQ2YVIZSHfqmBoz-57" value="VLAN: Business Netzwerk" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="9SLDAZQ2YVIZSHfqmBoz-50">
+          <mxGeometry x="5.38" y="5.12" width="214.62" height="13.17" as="geometry" />
+        </mxCell>
+        <mxCell id="9SLDAZQ2YVIZSHfqmBoz-2" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="9SLDAZQ2YVIZSHfqmBoz-63">
+          <mxGeometry x="163.84615384615387" y="39.512195121951216" width="33.36585365853659" height="45.21951219512195" as="geometry" />
+        </mxCell>
+        <mxCell id="9SLDAZQ2YVIZSHfqmBoz-3" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="9SLDAZQ2YVIZSHfqmBoz-63">
+          <mxGeometry x="120" y="34.97560975609757" width="33.36585365853659" height="45.21951219512195" as="geometry" />
+        </mxCell>
+        <mxCell id="9SLDAZQ2YVIZSHfqmBoz-4" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="9SLDAZQ2YVIZSHfqmBoz-63">
+          <mxGeometry x="76.92307692307693" y="32.780487804878014" width="33.36585365853659" height="45.21951219512195" as="geometry" />
+        </mxCell>
+        <mxCell id="9SLDAZQ2YVIZSHfqmBoz-6" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="9SLDAZQ2YVIZSHfqmBoz-63">
+          <mxGeometry x="120" y="80.19512195121953" width="33.36585365853659" height="45.21951219512195" as="geometry" />
+        </mxCell>
+        <mxCell id="9SLDAZQ2YVIZSHfqmBoz-7" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="9SLDAZQ2YVIZSHfqmBoz-63">
+          <mxGeometry x="76.92307692307693" y="80.19512195121953" width="33.36585365853659" height="45.21951219512195" as="geometry" />
+        </mxCell>
+        <mxCell id="9SLDAZQ2YVIZSHfqmBoz-8" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="9SLDAZQ2YVIZSHfqmBoz-63">
+          <mxGeometry x="163.84615384615387" y="84.73170731707317" width="33.36585365853659" height="45.21951219512195" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
