@@ -1,29 +1,29 @@
-<mxfile host="app.diagrams.net" modified="2024-05-15T20:12:27.526Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" etag="HJ8rE_xQUOxG48bqT7KT" version="24.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-15T20:13:59.125Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" etag="Iahgo02EMnHwLFg5MY7h" version="24.4.0" type="github">
   <diagram name="Seite-1" id="UgNp4CsegLJwjOinKvmV">
     <mxGraphModel dx="2778" dy="1912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="9SLDAZQ2YVIZSHfqmBoz-54" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-399.02" y="-752" width="99.02" height="62" as="geometry" />
+          <mxGeometry x="-633.61" y="-790" width="99.02" height="62" as="geometry" />
         </mxCell>
         <mxCell id="9SLDAZQ2YVIZSHfqmBoz-32" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="9SLDAZQ2YVIZSHfqmBoz-54">
           <mxGeometry width="99.02" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="9SLDAZQ2YVIZSHfqmBoz-46" value="Internet" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="9SLDAZQ2YVIZSHfqmBoz-54">
+        <mxCell id="9SLDAZQ2YVIZSHfqmBoz-46" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Internet&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="9SLDAZQ2YVIZSHfqmBoz-54">
           <mxGeometry x="24.755" y="19.375" width="49.51" height="23.25" as="geometry" />
         </mxCell>
         <mxCell id="9SLDAZQ2YVIZSHfqmBoz-31" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/switch/Switch_52_port_L3.svg;" vertex="1" parent="1">
-          <mxGeometry x="-640" y="-425" width="45.8" height="31" as="geometry" />
+          <mxGeometry x="-607" y="-391" width="45.8" height="31" as="geometry" />
         </mxCell>
         <mxCell id="9SLDAZQ2YVIZSHfqmBoz-48" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-420" y="-210" width="210" height="143" as="geometry" />
+          <mxGeometry x="-360" y="-186" width="210" height="143" as="geometry" />
         </mxCell>
         <mxCell id="9SLDAZQ2YVIZSHfqmBoz-47" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="9SLDAZQ2YVIZSHfqmBoz-48">
           <mxGeometry width="210.00000000000003" height="143" as="geometry" />
         </mxCell>
         <mxCell id="9SLDAZQ2YVIZSHfqmBoz-59" value="VLAN: Technik" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="9SLDAZQ2YVIZSHfqmBoz-48">
-          <mxGeometry x="-29.268292682926834" y="6.052910052910053" width="167.56097560975613" height="13.619047619047619" as="geometry" />
+          <mxGeometry x="-16.268292682926834" y="7.052910052910053" width="167.56097560975613" height="13.619047619047619" as="geometry" />
         </mxCell>
         <mxCell id="9SLDAZQ2YVIZSHfqmBoz-60" value="" style="group" vertex="1" connectable="0" parent="9SLDAZQ2YVIZSHfqmBoz-48">
           <mxGeometry x="42.95121951219512" y="30.264550264550266" width="119.70731707317074" height="99.41904761904765" as="geometry" />
@@ -47,7 +47,7 @@
           <mxGeometry x="45.365853658536594" y="52.66031746031748" width="33.365853658536594" height="45.21951219512196" as="geometry" />
         </mxCell>
         <mxCell id="9SLDAZQ2YVIZSHfqmBoz-52" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-740" y="-197" width="181.75" height="117" as="geometry" />
+          <mxGeometry x="-680" y="-160" width="181.75" height="117" as="geometry" />
         </mxCell>
         <mxCell id="9SLDAZQ2YVIZSHfqmBoz-51" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="9SLDAZQ2YVIZSHfqmBoz-52">
           <mxGeometry width="177.48356807511738" height="116.99999999999999" as="geometry" />
@@ -79,17 +79,17 @@
         <mxCell id="9SLDAZQ2YVIZSHfqmBoz-58" value="VLAN: Telefon" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="9SLDAZQ2YVIZSHfqmBoz-52">
           <mxGeometry x="-31.956043956043956" y="6.540372670807454" width="182.94835164835166" height="13.080745341614907" as="geometry" />
         </mxCell>
-        <mxCell id="9SLDAZQ2YVIZSHfqmBoz-53" value="Distribution Switch" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-539.5" y="-475" width="104" height="50" as="geometry" />
+        <mxCell id="9SLDAZQ2YVIZSHfqmBoz-53" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Distribution Switch&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-561.2" y="-438" width="104" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9SLDAZQ2YVIZSHfqmBoz-55" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/switch/Switch_52_port_L3.svg;" vertex="1" parent="1">
-          <mxGeometry x="-920" y="-360" width="51.71" height="35" as="geometry" />
+          <mxGeometry x="-880" y="-335" width="51.71" height="35" as="geometry" />
         </mxCell>
         <mxCell id="9SLDAZQ2YVIZSHfqmBoz-56" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/switch/Switch_52_port_L3.svg;" vertex="1" parent="1">
-          <mxGeometry x="-375.36" y="-370" width="51.71" height="35" as="geometry" />
+          <mxGeometry x="-375.36" y="-335" width="51.71" height="35" as="geometry" />
         </mxCell>
         <mxCell id="9SLDAZQ2YVIZSHfqmBoz-63" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-1060" y="-210" width="250" height="150" as="geometry" />
+          <mxGeometry x="-1050" y="-176.5" width="250" height="150" as="geometry" />
         </mxCell>
         <mxCell id="9SLDAZQ2YVIZSHfqmBoz-50" value="" style="group" vertex="1" connectable="0" parent="9SLDAZQ2YVIZSHfqmBoz-63">
           <mxGeometry width="250" height="150" as="geometry" />
@@ -128,7 +128,7 @@
           <mxGeometry x="163.84615384615387" y="84.73170731707317" width="33.36585365853659" height="45.21951219512195" as="geometry" />
         </mxCell>
         <mxCell id="9SLDAZQ2YVIZSHfqmBoz-65" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-702" y="-630" width="236" height="117" as="geometry" />
+          <mxGeometry x="-707.12" y="-580" width="236" height="117" as="geometry" />
         </mxCell>
         <mxCell id="9SLDAZQ2YVIZSHfqmBoz-37" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="9SLDAZQ2YVIZSHfqmBoz-65">
           <mxGeometry y="9.818181818181818" width="236" height="107.18181818181819" as="geometry" />
@@ -148,19 +148,19 @@
         <mxCell id="9SLDAZQ2YVIZSHfqmBoz-41" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/storage/Datacenter_Server_Rack_ToR.svg;" vertex="1" parent="9SLDAZQ2YVIZSHfqmBoz-43">
           <mxGeometry x="24.246575342465754" y="24.545454545454547" width="33.492602739726024" height="67.89041095890411" as="geometry" />
         </mxCell>
-        <mxCell id="9SLDAZQ2YVIZSHfqmBoz-44" value="Organisationsnetz&lt;div style=&quot;line-height: 160%;&quot;&gt;Bsp: E-Mail Server&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="9SLDAZQ2YVIZSHfqmBoz-65">
+        <mxCell id="9SLDAZQ2YVIZSHfqmBoz-44" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Organisationsnetz&lt;/font&gt;&lt;div style=&quot;line-height: 160%; font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Bsp: E-Mail Server&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="9SLDAZQ2YVIZSHfqmBoz-65">
           <mxGeometry x="7.609999999999999" y="9.82" width="143.53" height="64.23" as="geometry" />
         </mxCell>
-        <mxCell id="9SLDAZQ2YVIZSHfqmBoz-45" value="Anzahl: 1 ... n" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="9SLDAZQ2YVIZSHfqmBoz-65">
+        <mxCell id="9SLDAZQ2YVIZSHfqmBoz-45" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Anzahl: 1 ... n&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="9SLDAZQ2YVIZSHfqmBoz-65">
           <mxGeometry x="113.15068493150685" y="83.45454545454545" width="48.49315068493151" height="24.545454545454547" as="geometry" />
         </mxCell>
         <mxCell id="9SLDAZQ2YVIZSHfqmBoz-67" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-680" y="-750" width="210" height="74" as="geometry" />
+          <mxGeometry x="-689.1" y="-690" width="210" height="74" as="geometry" />
         </mxCell>
         <mxCell id="9SLDAZQ2YVIZSHfqmBoz-33" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="9SLDAZQ2YVIZSHfqmBoz-67">
           <mxGeometry x="2.758620689655172" y="20.651162790697676" width="207.24137931034483" height="34.41860465116279" as="geometry" />
         </mxCell>
-        <mxCell id="9SLDAZQ2YVIZSHfqmBoz-34" value="DMZ" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="9SLDAZQ2YVIZSHfqmBoz-67">
+        <mxCell id="9SLDAZQ2YVIZSHfqmBoz-34" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;DMZ&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="9SLDAZQ2YVIZSHfqmBoz-67">
           <mxGeometry y="18.930232558139533" width="41.37931034482758" height="25.813953488372093" as="geometry" />
         </mxCell>
         <mxCell id="9SLDAZQ2YVIZSHfqmBoz-35" value="" style="image;html=1;image=img/lib/clip_art/networking/Firewall_02_128x128.png" vertex="1" parent="9SLDAZQ2YVIZSHfqmBoz-67">
