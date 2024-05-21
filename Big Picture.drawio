@@ -1,6 +1,6 @@
-<mxfile modified="2024-05-20T08:59:48.348Z" host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" etag="m80jfdzdciUH8krBJOOT" version="24.4.4" type="github">
+<mxfile modified="2024-05-21T06:52:04.778Z" host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" etag="w3_T-ek17Z8hs6BG7637" version="24.4.4" type="github">
   <diagram id="l8hXMBHkgcEJcSW0mbfh" name="Page-1">
-    <mxGraphModel dx="877" dy="668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="737" dy="668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -540,8 +540,8 @@
         <mxCell id="VGc6qAFPaCZZbTV_R3z2-17" value="" style="image;html=1;image=img/lib/clip_art/networking/Router_Icon_128x128.png" parent="1" vertex="1">
           <mxGeometry x="385" y="675" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="VGc6qAFPaCZZbTV_R3z2-18" value="&lt;u&gt;Einfache Bus-Toplogie&lt;/u&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1;fontColor=#00CC00;" parent="1" vertex="1">
-          <mxGeometry x="145" y="630" width="198" height="30" as="geometry" />
+        <mxCell id="VGc6qAFPaCZZbTV_R3z2-18" value="&lt;u&gt;Einfache Stern-Toplogie&lt;/u&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1;fontColor=#00CC00;" parent="1" vertex="1">
+          <mxGeometry x="145" y="630" width="215" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VGc6qAFPaCZZbTV_R3z2-19" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;labelBackgroundColor=#77bb41;fontColor=#96d35f;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
