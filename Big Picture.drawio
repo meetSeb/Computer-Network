@@ -1,6 +1,6 @@
-<mxfile modified="2024-05-24T11:47:16.081Z" host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" etag="L5_-xr4cfE0wy_FOtc_F" version="24.4.7" type="github">
+<mxfile modified="2024-05-24T11:48:21.657Z" host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" etag="kT6Dq4Owz1TP7TObvkbv" version="24.4.7" type="github">
   <diagram id="l8hXMBHkgcEJcSW0mbfh" name="Page-1">
-    <mxGraphModel dx="498" dy="687" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1271" dy="981" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -399,9 +399,6 @@
             <mxPoint x="96" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5Y2B0rHB4n81U8_gh0Yu-144" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Web_Application_Firewall_Policies_WAF.svg;" parent="1" vertex="1">
-          <mxGeometry x="140" y="243" width="34" height="34" as="geometry" />
-        </mxCell>
         <mxCell id="5Y2B0rHB4n81U8_gh0Yu-154" value="&lt;u&gt;Nutzung DMZ und VPN&lt;/u&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1;fontColor=#00CC00;" parent="1" vertex="1">
           <mxGeometry x="94" y="100" width="148" height="50" as="geometry" />
         </mxCell>
@@ -619,6 +616,9 @@
         </mxCell>
         <mxCell id="4dnfth2lIAkzedtxEvbp-10" value="" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.vpn;fillColor=#007AFF;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#222222;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="320" y="246.75" width="30" height="28.5" as="geometry" />
+        </mxCell>
+        <mxCell id="5Y2B0rHB4n81U8_gh0Yu-144" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Web_Application_Firewall_Policies_WAF.svg;" parent="1" vertex="1">
+          <mxGeometry x="140" y="243" width="34" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
