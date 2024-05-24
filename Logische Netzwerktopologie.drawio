@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-24T10:58:30.865Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" etag="MDEq1QzMniRuir4TYqGu" version="24.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-24T12:17:14.316Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" etag="C4GSubD9eO4YR-YXkDX8" version="24.4.7" type="github">
   <diagram name="Seite-1" id="UgNp4CsegLJwjOinKvmV">
-    <mxGraphModel dx="2195" dy="1495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2059" dy="1513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -283,7 +283,7 @@
         <mxCell id="F2MImRC0bEaSIkmTc81G-31" value="&lt;p style=&quot;line-height: 0%;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Gig 0/0/0&amp;nbsp;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 0%;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;192.168.0.1&lt;/span&gt;&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;rotation=0;" parent="9SLDAZQ2YVIZSHfqmBoz-67" vertex="1">
           <mxGeometry x="210" y="185" width="156" height="39.92" as="geometry" />
         </mxCell>
-        <mxCell id="F2MImRC0bEaSIkmTc81G-1" value="&lt;p style=&quot;line-height: 60%;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Netz 20: 192.168.50.0/22&lt;/font&gt;&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;rotation=0;" parent="9SLDAZQ2YVIZSHfqmBoz-67" vertex="1">
+        <mxCell id="F2MImRC0bEaSIkmTc81G-1" value="&lt;p style=&quot;line-height: 60%;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Netz 50: 192.168.50.0/22&lt;/font&gt;&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;rotation=0;" parent="9SLDAZQ2YVIZSHfqmBoz-67" vertex="1">
           <mxGeometry x="480" y="225.08000000000004" width="153.26" height="24.1" as="geometry" />
         </mxCell>
         <mxCell id="VtZTm2mjLHdyGHlxw-ue-1" value="" style="image;html=1;image=img/lib/clip_art/networking/Router_128x128.png" parent="9SLDAZQ2YVIZSHfqmBoz-67" vertex="1">
